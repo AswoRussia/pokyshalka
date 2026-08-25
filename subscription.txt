@@ -1,5 +1,5 @@
 #profile-title: oqi-vpn
-#announce: base64:4p2k77iPIExPVkUgUktOIOKdpO+4jw==
+#announce: base64:UktOIE9ORSBMT1ZF
 #subscriptions-sort-type: ping
 #subscription-auto-update-enable: 1
 #subscription-auto-update-open-enable: 1
