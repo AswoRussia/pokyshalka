@@ -1,4 +1,5 @@
 #profile-title: oqi-vpn
+#announce: LOVE RKN
 #subscriptions-sort-type: ping
 #subscription-auto-update-enable: 1
 #subscription-auto-update-open-enable: 1
