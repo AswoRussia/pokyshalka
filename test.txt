@@ -4,7 +4,7 @@
 #subscription-auto-update-open-enable: 1
 #subscriptions-expand-now: 1
 #ping-result: time
-#subscription-userinfo: upload=0; download=0; total=0; expire=1798921560
+#subscription-userinfo: upload=0; download=0; total=0; expire=1819390800
 
 vless://drEwvgYhS15C@107.189.16.3:80?type=grpc&security=reality&sni=www.yahoo.com&fp=chrome&pbk=OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI&sid=d49d578f280fd83a&serviceName=#🇳🇱Netherlands?serverDescription=#Netherlands
 vless://ec348792-bbac-4845-b6b6-0dfb2a8d1ee0@216.126.239.95:42686?type=tcp&encryption=none&security=reality&pbk=gKa8kBKlXB5vlsfp3T-gQUl9UVZv_tDta0tvWNl77yQ&fp=edge&sni=www.sony.co.uk&sid=962ea6ac0903&spx=%2F320b517009b540a&serviceName=#🇺🇸USA?serverDescription=#USA
